@@ -1,0 +1,5 @@
+# filesystem
+*DS_Store
+
+# env variables
+/environment/mysql.env
